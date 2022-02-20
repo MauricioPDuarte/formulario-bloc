@@ -68,7 +68,7 @@ class _ProductPageState extends State<ProductPage> {
               ),
               TextFormField(
                 decoration: const InputDecoration(
-                  hintText: 'Codigo de barras',
+                  hintText: 'Código de barras',
                 ),
                 onChanged: (barCode) =>
                     bloc.add(FormProductChangePropsEvent(barCode: barCode)),
@@ -90,7 +90,7 @@ class _ProductPageState extends State<ProductPage> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         const Text(
-                          'Detalhes do prduto',
+                          'Detalhes do produto',
                           style: TextStyle(fontWeight: FontWeight.bold),
                         ),
                         Text("Name: ${product?.name}"),
