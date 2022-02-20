@@ -1,16 +1,16 @@
-# forms_bloc
+<h1 align="center">
+    Formulário - Flutter | BLoC
+</h1>
 
-A new Flutter project.
+<p align="center">
+  <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-## Getting Started
+<p align="center">
+   <img src="https://github.com/MauricioPDuarte/GoPizza/blob/master/telas2.png"> 
+</p>
 
-This project is a starting point for a Flutter application.
+## :page_with_curl: Sobre
+Aplicação desenvolvida para fins de estudo, aplicar o conhecimento dentro do Flutter junto com os padrões de projeto. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A tecnologias que utilizamos para tornar esse projeto real foi o Flutter... 
